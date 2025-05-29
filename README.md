@@ -23,7 +23,8 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+- [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+- MongoDB for the database.
 
 ## Note
 All the specification, database setup is placed at [Markdown-detail](https://github.com/Sierraaaaaaaaaaa/todo-CRUD/tree/main/Markdown-detail)
